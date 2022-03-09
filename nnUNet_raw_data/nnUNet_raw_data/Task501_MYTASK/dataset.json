@@ -1,0 +1,103 @@
+{
+    "description": "",
+    "labels": {
+        "0": "background",
+        "1": "liver",
+        "2": "spleen",
+        "3": "RightKidney",
+        "4": "LeftKidney"
+    },
+    "licence": "hands off!",
+    "modality": {
+        "0": "T2"
+    },
+    "name": "Fatemeh",
+    "numTest": 0,
+    "numTraining": 20,
+    "reference": "",
+    "release": "0.0",
+    "tensorImageSize": "4D",
+    "test": [],
+    "training": [
+        {
+            "image": "./imagesTr/IMG_001.nii.gz",
+            "label": "./labelsTr/IMG_001.nii.gz"
+        },
+        {
+            "image": "./imagesTr/IMG_002.nii.gz",
+            "label": "./labelsTr/IMG_002.nii.gz"
+        },
+        {
+            "image": "./imagesTr/IMG_003.nii.gz",
+            "label": "./labelsTr/IMG_003.nii.gz"
+        },
+        {
+            "image": "./imagesTr/IMG_005.nii.gz",
+            "label": "./labelsTr/IMG_005.nii.gz"
+        },
+        {
+            "image": "./imagesTr/IMG_008.nii.gz",
+            "label": "./labelsTr/IMG_008.nii.gz"
+        },
+        {
+            "image": "./imagesTr/IMG_010.nii.gz",
+            "label": "./labelsTr/IMG_010.nii.gz"
+        },
+        {
+            "image": "./imagesTr/IMG_013.nii.gz",
+            "label": "./labelsTr/IMG_013.nii.gz"
+        },
+        {
+            "image": "./imagesTr/IMG_015.nii.gz",
+            "label": "./labelsTr/IMG_015.nii.gz"
+        },
+        {
+            "image": "./imagesTr/IMG_019.nii.gz",
+            "label": "./labelsTr/IMG_019.nii.gz"
+        },
+        {
+            "image": "./imagesTr/IMG_020.nii.gz",
+            "label": "./labelsTr/IMG_020.nii.gz"
+        },
+        {
+            "image": "./imagesTr/IMG_021.nii.gz",
+            "label": "./labelsTr/IMG_021.nii.gz"
+        },
+        {
+            "image": "./imagesTr/IMG_022.nii.gz",
+            "label": "./labelsTr/IMG_022.nii.gz"
+        },
+        {
+            "image": "./imagesTr/IMG_031.nii.gz",
+            "label": "./labelsTr/IMG_031.nii.gz"
+        },
+        {
+            "image": "./imagesTr/IMG_032.nii.gz",
+            "label": "./labelsTr/IMG_032.nii.gz"
+        },
+        {
+            "image": "./imagesTr/IMG_033.nii.gz",
+            "label": "./labelsTr/IMG_033.nii.gz"
+        },
+        {
+            "image": "./imagesTr/IMG_034.nii.gz",
+            "label": "./labelsTr/IMG_034.nii.gz"
+        },
+        {
+            "image": "./imagesTr/IMG_036.nii.gz",
+            "label": "./labelsTr/IMG_036.nii.gz"
+        },
+        {
+            "image": "./imagesTr/IMG_037.nii.gz",
+            "label": "./labelsTr/IMG_037.nii.gz"
+        },
+        {
+            "image": "./imagesTr/IMG_038.nii.gz",
+            "label": "./labelsTr/IMG_038.nii.gz"
+        },
+        {
+            "image": "./imagesTr/IMG_039.nii.gz",
+            "label": "./labelsTr/IMG_039.nii.gz"
+        }
+    ]
+}
